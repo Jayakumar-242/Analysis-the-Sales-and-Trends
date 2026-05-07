@@ -1,0 +1,5 @@
+OrderID,OrderDate,CustomerName,Product,Quantity,UnitPrice,Region
+1001,05-01-2025,Ali Khan,Laptop,1,1200,North
+1002,06-01-2025,Sara Ahmed,Mouse,5,25,South
+1003,07-01-2025,Omar Farooq,Keyboard,2,75,East
+1004,08-01-2025,Ayesha Malik,Laptop,1,1200,West
